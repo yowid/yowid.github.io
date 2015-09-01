@@ -1,3 +1,1 @@
-# yowid.github.io
-
-[Link] (yowid.github.io)
+My Github Page
